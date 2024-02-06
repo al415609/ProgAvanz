@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interfaces.md",
+                "file": "Apuntes/Interfaces.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3919001f7abf89d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apuntes/Ejercicio Temperatura.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "94b40d1ae5bdf9e2",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interfaces.md",
+                "file": "Apuntes/Interfaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interfaces.md",
+                "file": "Apuntes/Interfaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interfaces.md"
+                "file": "Apuntes/Interfaces.md"
               }
             }
           }
@@ -147,9 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f06bb9902851d56",
+  "active": "2f34a0ea90a7d949",
   "lastOpenFiles": [
-    "Interfaces.md",
+    "Apuntes",
+    "Apuntes/Interfaces.md",
+    "Apuntes/Ejercicio Temperatura.md",
     "Welcome.md"
   ]
 }
